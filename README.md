@@ -1,2 +1,5 @@
 # python-api-challenge
-U of A Data Analytics Bootcamp Homework 6
+
+An analysis of the weather in 500+ cities
+
+![Weather Charts](https://github.com/janinewhite/python-api-challenge/blob/master/WeatherPy/output_data/charts.png?raw=true)
